@@ -6,7 +6,7 @@
 </head>
 <style>
    h1 {
-     
+     font-weight: bold;
    }
 </style>
 <body>
