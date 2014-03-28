@@ -7,6 +7,8 @@
 <style>
    h1 {
      font-weight: bold;
+	 font-family: Arial, sans-serif;
+	 color:#003399;
    }
 </style>
 <body>
